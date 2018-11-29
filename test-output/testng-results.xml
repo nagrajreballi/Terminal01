@@ -1,47 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="128" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+  <suite name="SuiteExtent" duration-ms="107" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="128" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+    <test name="Test" duration-ms="107" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
       <class name="com.qa.mamp.tests.Test1">
-        <test-method status="PASS" signature="m1()[pri:0, instance:com.qa.mamp.tests.Test1@73ad2d6]" name="m1" duration-ms="12" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.qa.mamp.tests.Test1@5700d6b1]" name="m1" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->
-        <test-method status="PASS" signature="m2()[pri:0, instance:com.qa.mamp.tests.Test1@73ad2d6]" name="m2" duration-ms="2" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.qa.mamp.tests.Test1@5700d6b1]" name="m2" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m2 -->
-        <test-method status="PASS" signature="m3()[pri:0, instance:com.qa.mamp.tests.Test1@73ad2d6]" name="m3" duration-ms="3" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m3()[pri:0, instance:com.qa.mamp.tests.Test1@5700d6b1]" name="m3" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m3 -->
-        <test-method status="PASS" signature="m4()[pri:0, instance:com.qa.mamp.tests.Test1@73ad2d6]" name="m4" duration-ms="1" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m4()[pri:0, instance:com.qa.mamp.tests.Test1@5700d6b1]" name="m4" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m4 -->
       </class> <!-- com.qa.mamp.tests.Test1 -->
       <class name="com.qa.mamp.tests.Test2">
-        <test-method status="PASS" signature="m5()[pri:0, instance:com.qa.mamp.tests.Test2@7085bdee]" name="m5" duration-ms="2" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m5()[pri:0, instance:com.qa.mamp.tests.Test2@1ce92674]" name="m5" duration-ms="18" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m5 -->
-        <test-method status="PASS" signature="m6()[pri:0, instance:com.qa.mamp.tests.Test2@7085bdee]" name="m6" duration-ms="2" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m6()[pri:0, instance:com.qa.mamp.tests.Test2@1ce92674]" name="m6" duration-ms="1" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m6 -->
-        <test-method status="PASS" signature="m7()[pri:0, instance:com.qa.mamp.tests.Test2@7085bdee]" name="m7" duration-ms="1" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m7()[pri:0, instance:com.qa.mamp.tests.Test2@1ce92674]" name="m7" duration-ms="3" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m7 -->
-        <test-method status="PASS" signature="m8()[pri:0, instance:com.qa.mamp.tests.Test2@7085bdee]" name="m8" duration-ms="2" started-at="2018-11-29T18:38:19Z" finished-at="2018-11-29T18:38:19Z">
+        <test-method status="PASS" signature="m8()[pri:0, instance:com.qa.mamp.tests.Test2@1ce92674]" name="m8" duration-ms="5" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m8 -->
       </class> <!-- com.qa.mamp.tests.Test2 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="com.qa.mamp.tests.Test3">
+        <test-method status="PASS" signature="m11()[pri:0, instance:com.qa.mamp.tests.Test3@6fd02e5]" name="m11" duration-ms="1" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m11 -->
+        <test-method status="PASS" signature="m22()[pri:0, instance:com.qa.mamp.tests.Test3@6fd02e5]" name="m22" duration-ms="4" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m22 -->
+        <test-method status="PASS" signature="m33()[pri:0, instance:com.qa.mamp.tests.Test3@6fd02e5]" name="m33" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m33 -->
+        <test-method status="PASS" signature="m44()[pri:0, instance:com.qa.mamp.tests.Test3@6fd02e5]" name="m44" duration-ms="2" started-at="2018-11-29T19:14:04Z" finished-at="2018-11-29T19:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m44 -->
+      </class> <!-- com.qa.mamp.tests.Test3 -->
+    </test> <!-- Test -->
+  </suite> <!-- SuiteExtent -->
 </testng-results>

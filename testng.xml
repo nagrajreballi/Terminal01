@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteExtent">
+<listeners>
+              
+              <listener class-name="ExtentReportListener.ExtentReporterNG"></listener>
+       </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.mamp.tests.Test2"/>
+      <class name="com.qa.mamp.tests.Test1"/>
+      <class name="com.qa.mamp.tests.Test3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SuiteExtent -->
