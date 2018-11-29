@@ -1,3 +1,4 @@
+//updated from git
 package com.qa.mamp.tests;
 
 import org.testng.annotations.Test;
@@ -27,5 +28,11 @@ public class Test1
 	public void m4()
 	{
 		System.out.println("Test4");
+	}
+	
+	@Test
+	public void m5()
+	{
+		System.out.println("Test5");
 	}
 }
