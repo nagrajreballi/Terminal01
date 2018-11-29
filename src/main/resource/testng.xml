@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Automation Terminal">
+  <test thread-count="5" name="Test Terminal">
+    <packages>
+    	<package name="com.qa.mamp.tests.*" />
+    		
+  	</packages>  
+  	</test> <!-- Test Terminal -->
+</suite> <!-- Suite Automation Terminal -->
